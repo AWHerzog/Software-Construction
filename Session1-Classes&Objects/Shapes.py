@@ -8,3 +8,5 @@ class Shape:
 s = Shape("generic shape")
 print(s.name)
 
+print("Hell")
+
