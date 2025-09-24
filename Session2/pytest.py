@@ -11,3 +11,5 @@ def test_my_abs():
     expected_result = 0
     absolute_result = func.my_abs(0)
     assert absolute_result == expected_result
+
+
