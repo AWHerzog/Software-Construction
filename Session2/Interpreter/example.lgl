@@ -1,2 +1,5 @@
-
-["addieren", 1, ["subtrahieren", 2, 1]]
+["seq",
+    ["set", "a", 10],
+    ["set", "b", 3],
+    ["addieren", ["get", "a"], 10]
+]
